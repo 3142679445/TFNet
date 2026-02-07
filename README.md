@@ -1,4 +1,4 @@
-# HCGNet
-Balancing in-domain performance and cross-domain generalization: Hybrid CNN-GNN network for crack segmentation
+# TFNet
+Topology-aware graph inference guided frequency feature fusion network for cross-domain generalization crack segmentation
 
 Once this article is accepted, data will be provided as requested.
