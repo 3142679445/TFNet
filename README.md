@@ -1,5 +1,5 @@
 # TFNet
-Topology-aware graph inference guided frequency feature fusion network for cross-domain generalization crack segmentation
+Topology-aware graph inference guided Frequency-spatial feature fusion for cross-domain crack segmentation
 
 Once this article is accepted, data will be provided as requested.
 
